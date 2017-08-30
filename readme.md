@@ -3,12 +3,13 @@
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
 Install
-* 1. Create new Mysql DB -> CREATE DATABASE tleshop CHARACTER SET utf8 COLLATE utf8_general_ci;
-* 2. Set username and password to access DB in config/database.php (line 60, 61)
-* 3. Open command line and goto project folder then run -> php artisan migrate
-* 4. then run -> php artisan db:seed
-* 5. finish open web in browser :)
+> 1. Create new Mysql DB -> CREATE DATABASE tleshop CHARACTER SET utf8 COLLATE utf8_general_ci;
+> 2. Set username and password to access DB in config/database.php (line 60, 61)
+> 3. Open command line and goto project folder then run -> php artisan migrate
+> 4. then run -> php artisan db:seed
+> 5. finish open web in browser :)
 
+-------------------------------------------------------------------------------------------------
 
 - 2.1.	ระบบจัดการข้อมูลพื้นฐาน
   - 2.1.1.	สามารถจัดการข้อมูลลูกค้า (เพิ่ม,แก้ไข,ลบ,ค้นหา)
